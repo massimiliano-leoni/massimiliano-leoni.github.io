@@ -49,7 +49,7 @@ I developed a computational model of the ECMO process to test this hypothesis an
 - Compared numerical outcomes to ICU observations to improve clinical understanding 
 
 ## Key Findings
-- **Recirculation in a necessary evil** and not even optimal cannula placement can solve it  
+- **Recirculation is a necessary evil** and not even optimal cannula placement can solve it
 - **Intrinsic limitations of ECMO design** impose upper bounds on achievable oxygenation  
 
 ## Impact
