@@ -1,26 +1,33 @@
-## Simulation and Mathematical Modelling of ECMO (Extracorporeal Membrane Oxygenation)
+<!--
+theme: gaia
+class:
+ - invert
+headingDivider: 2 
+paginate: true
+-->
 
-**Paper:**  
-[Scientific Reports (Nature Portfolio), 2022](https://www.nature.com/articles/s41598-022-23159-z)  
-Awarded *Best Paper of the Year* by the Austrian Academy of Sciences.
+<!--
+_class:
+ - lead
+ - invert
+-->
 
-### Overview
-Extracorporeal Membrane Oxygenation (ECMO) is an ICU procedure that oxygenates blood externally when pulmonary function is severely impaired. Clinicians had observed a persistent drop in oxygen transfer efficiency during ECMO and suspected **recirculation**—the unintended return of oxygenated blood to the venous system—as the root cause.
+# Deploy Marp to GitHub Pages
 
-I developed a computational model of the ECMO process to test this hypothesis and quantify the contribution of recirculation under realistic physiological and clinical conditions.
+Presentations to Webpages: Instantly!
 
-### Approach
-- Developed a reduced-order model capturing cardiovascular flow dynamics and oxygen transport  
-- Incorporated cannulation geometry, ECMO pump characteristics, and patient physiology  
-- Ran extensive simulations of clinically relevant configurations  
-- Compared numerical outcomes to ICU observations to assess plausibility of proposed mechanisms
+## What?
 
-### Key Findings
-- **Recirculation alone cannot explain the observed efficiency drop**  
-- **Intrinsic limitations of ECMO design** impose upper bounds on achievable oxygenation  
-- Even optimal cannula placement cannot bypass these physiological constraints  
+[Marp](https://marp.app/) lets you create HTML slides from markdown (like this!).
 
-### Impact
-- Provided clinicians with a mechanistic explanation for observed oxygenation limits  
-- Informed interpretation of ECMO performance metrics in ICU practice  
-- Published in *Scientific Reports* and received **Best Paper of the Year** from the Austrian Academy of Sciences
+This presentation is both a [website](https://alexsci.com/marp-to-pages) and a [README.md](https://github.com/ralexander-phi/marp-to-pages/blob/main/README.md).
+
+## Why?
+
+Treat your presentation the same way you treat code.
+
+- Use git to track changes
+- Pull requests to collaborate
+- Deploy automatically
+- See a problem? Open an issue!
+
